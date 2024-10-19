@@ -54,12 +54,12 @@ Just Click on the Login to have the Initial UserInterface of the APP
 
 # TECH STACK 
 
-Frontend Framework: Next.js (React-based)
-Styling: CSS Modules and Tailwind CSS
-Routing: Built-in Next.js routing
-Data Fetching: API routes and Fetch API
-Deployment: Vercel
-Version Control: Git (GitHub)
+1. Frontend Framework: Next.js (React-based)
+2. Styling: CSS Modules and Tailwind CSS
+3. Routing: Built-in Next.js routing
+4. Data Fetching: API routes and Fetch API
+5. Deployment: Vercel
+6. Version Control: Git (GitHub)
 
 
 # API's USED :
