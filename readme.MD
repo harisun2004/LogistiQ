@@ -23,6 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 # Login Credentials
 
 Username : msharathgowda7@gmail.com
+
 Password : mSG149
 
 ## to access the Dashboard
