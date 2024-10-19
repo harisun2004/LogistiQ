@@ -54,9 +54,15 @@ Just Click on the Login to have the Initial UserInterface of the APP
 
 # TECH STACK 
 
-Frontend : Next.js
+Frontend Framework: Next.js (React-based)
+Styling: CSS Modules and Tailwind CSS
+Routing: Built-in Next.js routing
+Data Fetching: API routes and Fetch API
+Deployment: Vercel
+Version Control: Git (GitHub)
 
-API's USED :
+
+# API's USED :
 
 1. Carbonsutra API  -> for Co2 Emission Estimator.
 2. OnFleet API -> for FleetManagement.
