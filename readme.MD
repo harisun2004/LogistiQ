@@ -20,7 +20,12 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
+# Login Credentials
 
+Username : msharathgowda7@gmail.com
+Password : mSG149
+
+## to access the Dashboard
 
 
 
