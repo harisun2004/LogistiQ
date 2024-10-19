@@ -11,6 +11,7 @@ Sustainability Focus: Track and reduce emissions to meet regulatory standards an
 First, run the development server:
 
 ```bash
+cd lol-master
 npm i
 # and
 npm run dev
